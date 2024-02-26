@@ -12,6 +12,7 @@
 body {
   background-image: url(../images/fundo.jpg), linear-gradient(to bottom, rgb(56, 55, 55), rgb(51, 51, 51));
   background-position: center center;
+  background-attachment: fixed;
   background-blend-mode: overlay;
   background-size: cover;
   color: #f2f2f2;
